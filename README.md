@@ -1,4 +1,4 @@
-# SQL- Odev-1
+# SQL - Odev - 1
 Patika SQL modülü kapsamındaki Ödev 1
 
 1. film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
