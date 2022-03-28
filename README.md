@@ -1,2 +1,2 @@
-# SQL---dev-1
+# SQL- Odev-1
 Patika SQL modülü kapsamındaki Ödev 1
